@@ -4,12 +4,12 @@ with open("README.md","r", encoding = 'utf-8') as fp:
 	readme = fp.read()
 
 setup(
-	name="separability-index",
+	name="separability_index",
 	version="0.1.0",
-	description="An index to assess how separable two two-component datasets are.",
+	description="A suite of tools to assess the separability of two datasets.",
 	author="A. Renmin Pretell Ductram, Scott J. Brandenberg",
-	author_email="rpretell@unr.edu, sjbrandenberg@g.ucla.edu",
-	url="https://github.com/RPretellD/separability-index",
+	author_email="rpretell@unr.edu, sjbrandenberg@ucla.edu",
+	url="https://github.com/RPretellD/separability_index",
     long_description=readme,
     
     packages=find_packages(),
