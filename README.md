@@ -16,7 +16,7 @@ A suite of tools to assess the separability of two datasets.
 ## Citation
 If you use these codes, please cite:<br>
 
-> Pretell, R., and Brandenberg, S.J. (2023). separability_index: A suite of tools to assess the separability of two datasets (0.1.0). Zenodo. https://doi.org/10.5281/zenodo.10404856<br>
+> Pretell, R., and Brandenberg, S. (2023). separability_index: A suite of tools to assess the separability of two datasets (0.1.0). Zenodo. https://doi.org/10.5281/zenodo.10404856<br>
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10404856.svg)](https://doi.org/10.5281/zenodo.10404856)
 
